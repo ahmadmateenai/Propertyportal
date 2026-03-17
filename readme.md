@@ -1,5 +1,7 @@
 # Property Portal — Lead Generation Platform
 > Internship assessment project for Waqar Siddiqui
+<img width="1835" height="927" alt="image" src="https://github.com/user-attachments/assets/18fcf7d0-cddc-4327-bba7-8b48e6dca0c2" />
+[![Watch the video](https://img.youtube.com/vi/MQ6rg831AaU/hqdefault.jpg)](https://youtu.be/MQ6rg831AaU)
 
 ---
 
