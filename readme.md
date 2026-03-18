@@ -1,5 +1,5 @@
 # Property Portal — Lead Generation Platform
-> Internship assessment project for Waqar Siddiqui
+> Internship assessment project by Ahmad Mateen
 > [![Frontend Demo](https://img.shields.io/badge/Frontend-Demo-blue?style=for-the-badge)](https://premiumproperty.netlify.app)
 
 
@@ -36,6 +36,8 @@ https://github.com/user-attachments/assets/af751421-77a7-4449-af15-61683e1e4860
 ```
 htdocs/property-portal/
 ├── index.html
+├── style.css
+├── script.js
 ├── submit_lead.php
 ├── database.sql
 ├── success.jpg
@@ -137,4 +139,4 @@ If PHP/MySQL is not running, the frontend still shows the success overlay as a f
 
 ---
 
-*Built for the Property Portal internship assessment — Waqar Siddiqui*
+*Built for the Property Portal internship assessment — Ahmad Mateen*
