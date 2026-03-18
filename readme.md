@@ -1,9 +1,10 @@
 # Property Portal — Lead Generation Platform
 > Internship assessment project for Waqar Siddiqui
+
 <img width="1835" height="927" alt="image" src="https://github.com/user-attachments/assets/18fcf7d0-cddc-4327-bba7-8b48e6dca0c2" />
-Youtube Video:
+
  <a href="https://youtu.be/MQ6rg831AaU" target="_blank">
-    <img src="https://img.youtube.com/vi/MQ6rg831AaU/0.jpg" alt="Property Portal Demo" width="480" style="border:0;">
+   Youtube Video: <img src="https://img.youtube.com/vi/MQ6rg831AaU/0.jpg" alt="Property Portal Demo" width="480" style="border:0;">
 </a>
 
 
