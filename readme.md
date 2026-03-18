@@ -6,6 +6,10 @@
 </a>
 
 
+Mobile UI view:
+https://github.com/user-attachments/assets/af751421-77a7-4449-af15-61683e1e4860
+
+
 ---
 
 ## Files
