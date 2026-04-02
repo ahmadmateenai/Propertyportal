@@ -100,7 +100,7 @@ inquiryForm?.addEventListener('submit', async (e) => {
     btnText.textContent = 'Processing...';
 
     try {
-        const res = await fetch('submit_lead.php', { method: 'POST', body: new FormData(inquiryForm) });
+        const res = await fetch('https://hook.eu1.make.com/y3e19mgkpm7dod69nl6h3k65g1bl3ms4', { method: 'POST', body: new FormData(inquiryForm) });
         const result = await res.json();
         result.status === 'success' ? showSuccess() : alert('Error: ' + result.message);
     } catch {
